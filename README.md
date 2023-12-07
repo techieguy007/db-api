@@ -1,5 +1,5 @@
-a simple rest api using nodejs and express
-sakila database is used for this project
+create a simple rest api for your mysql database using nodejs and express
+sakila database is used for this project demo
 
 to run this project
 1. clone this repo
