@@ -7,6 +7,6 @@ const config = {
       database: "sakila",
       connectTimeout: 60000
     },
-    listPerPage: 1000,
+    listPerPage: 100000,
   };
   module.exports = config;
